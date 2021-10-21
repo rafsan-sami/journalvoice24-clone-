@@ -1,0 +1,53 @@
+.navbar{
+    background-color: wheat;
+    
+}
+.nav-item a{
+    color: black;
+}
+.fst-item{
+    margin-top: 60px;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+.sec-item{
+    margin-top: 40px;
+    padding: 20px;
+    background-color: black;
+}
+.sec-item p{
+    color: #ECB900;
+}
+.thr-item{
+    margin-top: 40px;
+    padding: 20px;
+    background-color: black;
+}
+.thr-item p{
+    color: #ECB900;
+}
+.fo-item{
+    margin-top: 40px;
+    padding: 20px;
+    background-color: black;
+}
+.fo-item p{
+    color: #ECB900;
+}
+.fiv-item{
+    margin-top: 40px;
+    margin-bottom: 70px;
+    padding: 20px;
+    background-color: black;
+}
+.fiv-item p{
+    color: #ECB900;
+}
+footer{
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+p{
+    font-size: 15px;
+}
